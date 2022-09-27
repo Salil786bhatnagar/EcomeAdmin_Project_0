@@ -1,0 +1,99 @@
+.carousel .carousel-status{
+    display: none;
+}
+.slick-next {
+    font-size: 0;
+    line-height: 0;
+    position: absolute;
+    top: 50%;
+    display: block;
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    transform: translate(0, -50%);
+    cursor: pointer;
+    color: transparent;
+    border: none;
+    outline: none;
+    background: #0c0c0cbd;
+}
+
+button.slick-arrow.slick-next {
+    background-color: #0000005c;
+    width: 25px;
+    height: 50px;
+}
+
+.slick-prev{
+    font-size: 0;
+    line-height: 0;
+    position: absolute;
+    top: 50%;
+    display: block;
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    transform: translate(0, -50%);
+    cursor: pointer;
+    color: transparent;
+    border: none;
+    outline: none;
+    background: #0c0c0cbd;
+}
+button.slick-arrow.slick-prev {
+    background-color: #0000005c;
+    width: 25px;
+    height: 50px;
+}
+.MuiGrid-container {
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    max-width: 95%;
+    position: relative;
+    left: 4%;
+}
+.makeStyles-categorylist-5 ul li {
+    list-style: none;
+    height: 10px;
+}
+
+.makeStyles-categorylist-52 ul li {
+    list-style: none;
+    height: 10px;
+}
+
+.makeStyles-ProductCart-25 ul li {
+    list-style: none;
+    height: 15px;
+}
+
+/* span.makeStyles-showcart-2 ul li {
+    list-style: none;
+    height: 5px;
+} */
+
+/* 24/11/2020 New Update in header, menu and slider  */
+.MuiPaper-root.MuiAppBar-root.MuiAppBar-positionStatic.MuiAppBar-colorPrimary.MuiPaper-elevation4 {
+    /* position: fixed; */
+}
+.MuiToolbar-root.MuiToolbar-regular.MuiToolbar-gutters {
+    /* position: fixed;
+    z-index: 1; */
+}
+.makeStyles-mainmenu-11 {
+    /* position: relative; */
+    /* top: 80px;
+    z-index: 1; */
+}
+.slider-wrapper.axis-horizontal {
+    /* position: relative;
+    top: 65px; */
+}
+.makeStyles-mainmenu-11 {
+    /* display: flex;
+    flex-direction: row;
+    position: absolute; */
+}
+
+/* end the comment */
